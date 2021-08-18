@@ -1,0 +1,7 @@
+version: 1.0
+name: TinyBlocks
+main: com.william.plugin.Main
+
+author: me
+description: Places tiny blocks instead of regular blocks when toggled. Toggle tiny blocks mode by right-clicking blaze rod in hand!
+
